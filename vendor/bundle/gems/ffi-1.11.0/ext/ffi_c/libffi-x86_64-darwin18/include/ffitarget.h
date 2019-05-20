@@ -1,0 +1,1 @@
+/Users/masaaki/my_study/vue/rails-vue-sandbox/vendor/bundle/gems/ffi-1.11.0/ext/ffi_c/libffi/src/x86/ffitarget.h

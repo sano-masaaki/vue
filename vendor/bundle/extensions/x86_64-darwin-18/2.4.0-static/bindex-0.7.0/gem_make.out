@@ -1,0 +1,15 @@
+current directory: /Users/masaaki/my_study/vue/rails-vue-sandbox/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/masaaki/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20190520-34854-6c2dac.rb extconf.rb
+creating Makefile
+
+current directory: /Users/masaaki/my_study/vue/rails-vue-sandbox/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/masaaki/my_study/vue/rails-vue-sandbox/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/masaaki/my_study/vue/rails-vue-sandbox/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190520-34854-pbs5tk/skiptrace
